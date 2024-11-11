@@ -16,7 +16,7 @@
 	
 	<img src="imagens/logo.png" alt="logo">
 
-	<nav>
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 	
 		<ul>
 	
